@@ -1,1 +1,3 @@
 # TalkBuddy
+
+#Speech -> AI -> translate
